@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+Biite sende eine Email : lieblings_kollegin@arbeit.de
+
 ## Guidelines
 
 * Add one link per Pull Request.
